@@ -1,0 +1,53 @@
+body
+{
+background-color: black;
+color:mediumturquoise
+
+}
+#zfe
+{ 
+    color:rgb(43, 194, 199);
+margin-left:300px;
+
+}
+#xmp
+{
+margin-left: 100px; 
+color: cyan;
+}
+#disf
+{
+display:flex;
+}
+#mrq
+{
+color: aquamarine;
+font-size :50px; ;
+}
+#hbva
+{
+margin-left:300px; 
+}
+.LINKS
+{
+
+margin-left:70px;
+color: chartreuse;
+
+}
+.LINKS:hover
+{
+
+color: cyan;
+background-color: blueviolet;
+font-family: Georgia, 'Times New Roman', Times, serif;
+font-size:30px;
+
+}
+.dppc
+{
+    margin-left:70px;
+    color: deeppink;
+font-family: Arial, Helvetica, sans-serif;
+
+}
